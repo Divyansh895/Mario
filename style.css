@@ -1,0 +1,60 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-family: cursive;
+
+}
+
+.heading h3{
+    display: inline;
+    font-family: cursive;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-family: cursive;
+}
+
+#big_image{
+    width: 100%;
+}
+
+#start,#status{
+    font-size: 22px;
+    font-style: italic;
+    font-family: cursive;
+}
+
+h4{
+    background: black;
+    line-height: 2;
+    margin: 0px;
+    color: white;
+
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+#ins{
+    background-color: rgb(255, 177, 52);
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+}
+
+video{
+    background:url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
+
